@@ -1,0 +1,15 @@
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\bin\Debug\StudentForm.exe.config
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\bin\Debug\StudentForm.exe
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\bin\Debug\StudentForm.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\bin\Debug\Collections.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\bin\Debug\SET.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\bin\Debug\Collections.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\bin\Debug\SET.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\NameForms.csproj.AssemblyReference.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\StudentForm.Form1.resources
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\NameForms.csproj.GenerateResource.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\NameForms.csproj.CoreCompileInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\NameForms.csproj.Up2Date
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\StudentForm.exe
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\StudentForm\obj\Debug\StudentForm.pdb

@@ -1,0 +1,9 @@
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\bin\Debug\Lists.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\bin\Debug\Lists.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\bin\Debug\Collections.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\bin\Debug\Collections.pdb
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\obj\Debug\Lists.csproj.Up2Date
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\obj\Debug\Lists.dll
+C:\Users\BosSuperior\Desktop\Programming\C#\HW_LinkedCollection\Lists\obj\Debug\Lists.pdb
